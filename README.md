@@ -11,6 +11,8 @@
 ---
 ## DEMO
 
+https://github.com/user-attachments/assets/7d052120-c42a-422c-87c1-bc6254e49236
+
 ---
 ## Our autoclickers
 
