@@ -13,7 +13,7 @@ Electron based Telegram WEB extension with autoclicker! Native running without e
 ---
 ## DEMO
 
-https://github.com/user-attachments/assets/7d052120-c42a-422c-87c1-bc6254e49236
+https://github.com/user-attachments/assets/2c2c0e49-edeb-470a-9c70-2e0564f55734
 
 ---
 ## Our autoclickers
