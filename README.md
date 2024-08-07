@@ -1,3 +1,5 @@
+Electron based Telegram WEB extension with autoclicker! Native running without emulators!
+
 > [!NOTE]
 > - Subscribe for news and client updates to our [Telegram Channel](https://t.me/kiba_scripts)
 
