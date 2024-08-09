@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/2c2c0e49-edeb-470a-9c70-2e0564f55734
 ## Our autoclickers
 
 - [Hamster Kombat Client](https://github.com/kiba-scripts/hamster-kombat-client)
+- [TapSwap Client](https://github.com/kiba-scripts/tapswap-client)
+- [W-Coin Client](https://github.com/kiba-scripts/wcoin-client)
 
 ---
 > [!IMPORTANT]
