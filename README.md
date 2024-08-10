@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> - KNOWN ISSUE IN TAPSWAP CLIENT WILL BE FIXED TODAY
+
 Electron based Telegram WEB extension with autoclicker! Native running TapSwap on desktop without emulators!
 
 > [!NOTE]
