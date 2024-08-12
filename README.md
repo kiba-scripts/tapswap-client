@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> - KNOWN ISSUE IN TAPSWAP CLIENT WILL BE FIXED TODAY
+> - TAPSWAP CLIENT FIXED AFTER GAME UPDATE, PLEASE UPDATE TO 1.2.0
 
 Electron based Telegram WEB extension with autoclicker! Native running TapSwap on desktop without emulators!
 
